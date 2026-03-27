@@ -1,0 +1,1 @@
+To design and implement 4-bit Binary adder using IC-74LS83
