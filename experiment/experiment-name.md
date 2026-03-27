@@ -1,1 +1,1 @@
-## Experiment name
+## Implementation of binary adder using MSI ICs
