@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Q1.  74LS83 is a binary adder IC designed to add two ______ numbers.",
+    "qid": 1,
+    "option_a": "4-bit.",
+    "option_b": "8-bit",
+    "option_c": "16-bit",
+    "option_d": "32-bit",
+    "correct_option": "a"
+  },
+  {
+    "question": "Q2. The output of a Binary Adder is",
+    "qid": 2,
+    "option_a": "Sum",
+    "option_b": "Borrow",
+    "option_c": "Difference",
+    "option_d": "Sum and Carry",
+    "correct_option": "d"
+  },
+  {
+    "question": "Q3. A carry look ahead adder is frequently used for addition because",
+    "qid": 3,
+    "option_a": "It costs less.",
+    "option_b": "It is faster",
+    "option_c": "It is more accurate",
+    "option_d": "It uses fewer gates",
+    "correct_option": "b"
+  },
+  {
+    "question": "Q4. IC 74LS83 is a _________.",
+    "qid": 4,
+    "option_a": "4-bit parallel Binary Adder",
+    "option_b": "4-bit Comparator",
+    "option_c": "4-bit parallel Binary Subtracter",
+    "option_d": "Decoder",
+    "correct_option": "a"
+  },
+  {
+    "question": "Q5. The Output of 0001 + 1110 = _____.",
+    "qid": 5,
+    "option_a": "1111",
+    "option_b": "0101",
+    "option_c": "1100",
+    "option_d": "0010",
+    "correct_option": "a"
+  }
+]
